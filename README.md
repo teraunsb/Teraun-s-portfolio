@@ -24,5 +24,5 @@ I played the role of a data analyst presenting stakeholders that wanted want to 
 The stakeholders needed me to combine the results of both surveys to answer these questions. I first had to clean the data, then get to analyzing it.
 
 
-#[Project #5: Heavy Traffic Indicators on I-94](
+#[Project #5: Heavy Traffic Indicators on I-94](https://github.com/teraunsb/I-94-Traffic-Analysis/blob/main/I-94%20traffic%20project.ipynb)
  Car accidents, bad weather, and time of day are some examples of indicators of traffic ahead. This project will dive deep into the I-94 interstate highway dataset and look for any indicators that correlate with heavy traffic. Data visualization will be implemented in this project by using matplotlib.
