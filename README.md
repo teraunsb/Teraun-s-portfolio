@@ -25,3 +25,4 @@ The stakeholders needed me to combine the results of both surveys to answer thes
 
 
 #[Project #5: Heavy Traffic Indicators on I-94](
+ Car accidents, bad weather, and time of day are some examples of indicators of traffic ahead. This project will dive deep into the I-94 interstate highway dataset and look for any indicators that correlate with heavy traffic. Data visualization will be implemented in this project by using matplotlib.
