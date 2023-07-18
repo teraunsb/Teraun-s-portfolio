@@ -19,6 +19,6 @@ In this project, I worked with exit surveys from employees of the Department of 
 [GitHub Link: Heavy Traffic Indicators on I-94](https://github.com/teraunsb/I-94-Traffic-Analysis/blob/main/I-94%20traffic%20project.ipynb)
 Exploring the I-94 interstate highway dataset, this project aimed to identify indicators that correlate with heavy traffic. By examining factors such as car accidents, weather conditions, and time of day, I conducted data analysis and visualization using matplotlib to uncover meaningful insights about traffic patterns.
 
-# Project #1: Helicopter Escapes
+# Project: Helicopter Escapes
 [GitHub Link: Helicopter Escapes](https://github.com/teraunsb/Helicopter-landing-first-guided-project/blob/main/_helicopter%20escapes%20portfolio.ipynb)
 In this guided project, I utilized the concepts learned in earlier lessons such as for loops, indexes, and frequency tables. The objective was to clean the data and gather information about helicopter prison escape attempts. The culmination of the project involved presenting the data through a visually informative frequency chart.
