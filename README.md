@@ -1,7 +1,7 @@
 
 # Teraun's portfolio
 
-
+# Project : [SQL CIA Factbook Analysis](
 
 # Project: [App AD Analysis](https://github.com/teraunsb/App-Ad-Analysis/blob/main/_App%20Ad%20Project%20tsb.ipynb)
 The focus of this project was to analyze free apps that generate revenue through in-app advertisements. With the goal of attracting more users and increasing revenue for an imaginary company, I examined the performance of various types of free apps on both the IOS App Store and the Google Play Store.
