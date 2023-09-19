@@ -8,6 +8,19 @@ In this SQL project, insights about population and area for various countries in
 # Project : [Ebay Car Sales Analysis](https://github.com/teraunsb/Ebay-car-Sales-Analysis/blob/main/Car_Sales_Analysis.ipynb)
 The data was cleaned for better analysis, employing aggregation techniques like groupby(), nested_dictionaries, and agg(). Insights show a preference for Volkswagen cars in Germany due to affordability, reliability, and lower mileage. The Golf model is popular, and non-damaged cars are significantly more expensive.
 
+# Project : [High School Data Analysis](https://github.com/teraunsb/Analyzing-NYC-High-School-Data/blob/main/High%20Schools.ipynb)
+This project will be analyzing high schools in New York City. The key performance indicators(KPI's) are:
+
+- SAT scores by school - SAT scores for each high school in New York City
+- School attendance - Attendance information for each school in New York City
+- Class size - Information on class size for each school
+- AP test results - Advanced Placement (AP) exam results for each high school (passing an optional AP exam in a particular subject can earn a student college credit in that subject)
+- Graduation outcomes - The percentage of students who graduated and other outcome information
+- Demographics - Demographic information for each school
+- School survey - Surveys of parents, teachers, and students at each school
+
+The main objective of this project is to see the correlation beween the demographics/school survey and the SAT scores/AP test results.
+
 # Project : [Euro Exchange Rate Analysis](https://github.com/teraunsb/Euro-Exchange-Rate-Analysis/blob/main/Euro%20Exchange%20Rate%20Analysis.ipynb)
 The dataset shown illustrates the correlation between the Euro and other currencies around the world. For example, a value in the U.S. Dollar column might say 1.6228. This means that one Euro is worth 1.6338 dollars that day. The first column has the date for every value. I will use that row to analyze and visualize correlation between currencies across a period of time. Before I do any of that, I will have to clean the data to make sure that the numbers are accurate and the data conveys a clear message. I will be using mardowns to illustrate what I'm trying to accomplish.
 The data I will be working with can be found on Kaggle.
