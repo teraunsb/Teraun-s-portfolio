@@ -8,6 +8,9 @@ In this SQL project, insights about population and area for various countries in
 # Project : [Ebay Car Sales Analysis](https://github.com/teraunsb/Ebay-car-Sales-Analysis/blob/main/Car_Sales_Analysis.ipynb)
 The data was cleaned for better analysis, employing aggregation techniques like groupby(), nested_dictionaries, and agg(). Insights show a preference for Volkswagen cars in Germany due to affordability, reliability, and lower mileage. The Golf model is popular, and non-damaged cars are significantly more expensive.
 
+# Project : [Euro Exchange Rate Analysis](https://github.com/teraunsb/Euro-Exchange-Rate-Analysis/blob/main/Euro%20Exchange%20Rate%20Analysis.ipynb)
+The dataset shown illustrates the correlation between the Euro and other currencies around the world. For example, a value in the U.S. Dollar column might say 1.6228. This means that one Euro is worth 1.6338 dollars that day. The first column has the date for every value. I will use that row to analyze and visualize correlation between currencies across a period of time. Before I do any of that, I will have to clean the data to make sure that the numbers are accurate and the data conveys a clear message. I will be using mardowns to illustrate what I'm trying to accomplish.
+The data I will be working with can be found on Kaggle.
 
 # Project: [App AD Analysis](https://github.com/teraunsb/App-Ad-Analysis/blob/main/_App%20Ad%20Project%20tsb.ipynb)
 The focus of this project was to analyze free apps that generate revenue through in-app advertisements. With the goal of attracting more users and increasing revenue for an imaginary company, I examined the performance of various types of free apps on both the IOS App Store and the Google Play Store.
