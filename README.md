@@ -4,6 +4,11 @@
 # Project : [SQL CIA Factbook Analysis](https://github.com/teraunsb/SQL-CIA-Factbook-Analysis/blob/main/SQL%20CIA%20Factbook%20Project.ipynb)
 In this SQL project, insights about population and area for various countries in the CIA database were obtained. The analysis covered population growth rates, identifying countries with potential demographic challenges, and distinguishing water-dominant nations. Additionally, countries with high population density relative to land area were highlighted. The findings offer the CIA a fundamental understanding of global demographics, enabling informed decision-making and policy formulation.
 
+
+# Project : [Ebay Car Sales Analysis](https://github.com/teraunsb/Ebay-car-Sales-Analysis/blob/main/Car_Sales_Analysis.ipynb)
+The data was cleaned for better analysis, employing aggregation techniques like groupby(), nested_dictionaries, and agg(). Insights show a preference for Volkswagen cars in Germany due to affordability, reliability, and lower mileage. The Golf model is popular, and non-damaged cars are significantly more expensive.
+
+
 # Project: [App AD Analysis](https://github.com/teraunsb/App-Ad-Analysis/blob/main/_App%20Ad%20Project%20tsb.ipynb)
 The focus of this project was to analyze free apps that generate revenue through in-app advertisements. With the goal of attracting more users and increasing revenue for an imaginary company, I examined the performance of various types of free apps on both the IOS App Store and the Google Play Store.
 
