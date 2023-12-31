@@ -1,5 +1,5 @@
 
-# Teraun's portfolio
+# Teraun's Portfolio
 
 # Project : [SQL CIA Factbook Analysis](https://github.com/teraunsb/SQL-CIA-Factbook-Analysis/blob/main/SQL%20CIA%20Factbook%20Project.ipynb)
 In this SQL project, insights about population and area for various countries in the CIA database were obtained. The analysis covered population growth rates, identifying countries with potential demographic challenges, and distinguishing water-dominant nations. Additionally, countries with high population density relative to land area were highlighted. The findings offer the CIA a fundamental understanding of global demographics, enabling informed decision-making and policy formulation.
